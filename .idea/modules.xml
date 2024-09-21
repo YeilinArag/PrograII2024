@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/PrimerParcial/PrimerParcial.iml" filepath="$PROJECT_DIR$/PrimerParcial/PrimerParcial.iml" />
       <module fileurl="file://$PROJECT_DIR$/PrograII2024.iml" filepath="$PROJECT_DIR$/PrograII2024.iml" />
     </modules>
   </component>
